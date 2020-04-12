@@ -1,0 +1,46 @@
+actionid: py37
+msg: getenv
+cmdargs: ['/home/saurabh/Documents/Automation/CSVCompare/tests/.tox/py37/bin/pip', 'install', 'pytest', 'git+https://github.com/DrMikeyA/pytest-bdd.git#egg=pytest_bdd']
+env: {'CLUTTER_IM_MODULE': 'xim', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'XDG_MENU_PREFIX': 'gnome-', 'LANG': 'en_GB.UTF-8', 'DISPLAY': ':0', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'COLORTERM': 'truecolor', 'USERNAME': 'saurabh', 'XDG_VTNR': '2', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'XDG_SESSION_ID': '2', 'USER': 'saurabh', 'DESKTOP_SESSION': 'ubuntu', 'QT4_IM_MODULE': 'xim', 'TEXTDOMAINDIR': '/usr/share/locale/', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/4783164c_1f81_46b4_9f72_b1f2178cc3ee', 'PWD': '/home/saurabh/Documents/Automation/CSVCompare/tests', 'HOME': '/home/saurabh', 'TEXTDOMAIN': 'im-config', 'SSH_AGENT_PID': '1405', 'QT_ACCESSIBILITY': '1', 'XDG_SESSION_TYPE': 'x11', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'XDG_SESSION_DESKTOP': 'ubuntu', 'GJS_DEBUG_OUTPUT': 'stderr', 'GTK_MODULES': 'gail:atk-bridge', 'WINDOWPATH': '2', 'TERM': 'xterm-256color', 'SHELL': '/bin/bash', 'VTE_VERSION': '5202', 'QT_IM_MODULE': 'xim', 'XMODIFIERS': '@im=ibus', 'IM_CONFIG_PHASE': '2', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'GNOME_TERMINAL_SERVICE': ':1.96', 'XDG_SEAT': 'seat0', 'SHLVL': '1', 'LANGUAGE': 'en_GB:en', 'GDMSESSION': 'ubuntu', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'LOGNAME': 'saurabh', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'XDG_RUNTIME_DIR': '/run/user/1000', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'PATH': '/home/saurabh/Documents/Automation/CSVCompare/tests/.tox/py37/bin:/home/saurabh/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'SESSION_MANAGER': 'local/saurabh-VirtualBox:@/tmp/.ICE-unix/1268,unix/saurabh-VirtualBox:/tmp/.ICE-unix/1268', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'GTK_IM_MODULE': 'ibus', '_': '/usr/bin/tox', 'OLDPWD': '/home/saurabh/Documents/Automation/CSVCompare', 'PYTHONHASHSEED': '3545687427', 'VIRTUAL_ENV': '/home/saurabh/Documents/Automation/CSVCompare/tests/.tox/py37'}
+
+Collecting pytest
+  Using cached pytest-5.4.1-py3-none-any.whl (246 kB)
+Collecting pytest_bdd
+  Cloning https://github.com/DrMikeyA/pytest-bdd.git to /tmp/pip-install-98asipx7/pytest-bdd
+  Running command git clone -q https://github.com/DrMikeyA/pytest-bdd.git /tmp/pip-install-98asipx7/pytest-bdd
+Collecting py>=1.5.0
+  Using cached py-1.8.1-py2.py3-none-any.whl (83 kB)
+Collecting pluggy<1.0,>=0.12
+  Using cached pluggy-0.13.1-py2.py3-none-any.whl (18 kB)
+Collecting more-itertools>=4.0.0
+  Using cached more_itertools-8.2.0-py3-none-any.whl (43 kB)
+Collecting importlib-metadata>=0.12; python_version < "3.8"
+  Using cached importlib_metadata-1.6.0-py2.py3-none-any.whl (30 kB)
+Collecting attrs>=17.4.0
+  Using cached attrs-19.3.0-py2.py3-none-any.whl (39 kB)
+Collecting packaging
+  Using cached packaging-20.3-py2.py3-none-any.whl (37 kB)
+Collecting wcwidth
+  Using cached wcwidth-0.1.9-py2.py3-none-any.whl (19 kB)
+Processing /home/saurabh/.cache/pip/wheels/a9/54/c2/a73022629500264586ce9d41046f44d681a369d4273c97eb12/glob2-0.7-py2.py3-none-any.whl
+Collecting Mako
+  Using cached Mako-1.1.2-py2.py3-none-any.whl (75 kB)
+Processing /home/saurabh/.cache/pip/wheels/d7/b3/1d/5c94c64413b2212f64a297c92f11edd45e4474d08d0220a008/parse-1.15.0-py3-none-any.whl
+Collecting parse_type
+  Using cached parse_type-0.5.2-py2.py3-none-any.whl (32 kB)
+Collecting six>=1.9.0
+  Using cached six-1.14.0-py2.py3-none-any.whl (10 kB)
+Collecting zipp>=0.5
+  Using cached zipp-3.1.0-py3-none-any.whl (4.9 kB)
+Collecting pyparsing>=2.0.2
+  Using cached pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+Collecting MarkupSafe>=0.9.2
+  Using cached MarkupSafe-1.1.1-cp37-cp37m-manylinux1_x86_64.whl (27 kB)
+Building wheels for collected packages: pytest-bdd
+  Building wheel for pytest-bdd (setup.py): started
+  Building wheel for pytest-bdd (setup.py): finished with status 'done'
+  Created wheel for pytest-bdd: filename=pytest_bdd-3.1.0-py2.py3-none-any.whl size=44275 sha256=4c0b1cf105c4495628eaa33caff28b5a5a4d729e8d77152aa926587ea84ed685
+  Stored in directory: /tmp/pip-ephem-wheel-cache-ddoxrmcj/wheels/36/6d/90/23e56ac6b769b386949d2d387ba6d857b7ab2425f6857ee763
+Successfully built pytest-bdd
+Installing collected packages: py, zipp, importlib-metadata, pluggy, more-itertools, attrs, six, pyparsing, packaging, wcwidth, pytest, glob2, MarkupSafe, Mako, parse, parse-type, pytest-bdd
+Successfully installed Mako-1.1.2 MarkupSafe-1.1.1 attrs-19.3.0 glob2-0.7 importlib-metadata-1.6.0 more-itertools-8.2.0 packaging-20.3 parse-1.15.0 parse-type-0.5.2 pluggy-0.13.1 py-1.8.1 pyparsing-2.4.7 pytest-5.4.1 pytest-bdd-3.1.0 six-1.14.0 wcwidth-0.1.9 zipp-3.1.0
