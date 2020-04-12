@@ -32,4 +32,3 @@ def Compare_Output_CSV(OutputCSV, ExpOutputCSV):
     oplst.sort(reverse=True)
     expoplst.sort(reverse=True)
     assert oplst == expoplst
-    assert 2+3 == 5
